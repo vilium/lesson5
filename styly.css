@@ -1,0 +1,43 @@
+body{
+    background-color: #ebe6e6;
+}
+.a{
+    width: 500px;
+    border: 1px solid red;
+    margin-bottom: 15px;
+}
+.b{
+    display: block;
+}
+.c{
+    display: block;
+    margin-bottom: 15px;
+}
+.d{
+    width: 1200px;
+    padding-bottom: 25px;
+    border: 1px solid red;
+}
+.e{
+    display: inline;
+    border: 1px solid red;
+}
+.f{
+    display: inline-block;
+    border: 1px solid red;
+}
+.g{
+    display: inline-block;
+    width: 250px;
+    border: 1px solid red;
+}
+.h{
+    display: inline;
+    border: 1px solid red;
+}
+.i{
+    display: block;
+    width: 500px;
+    margin-top: 15px;
+    border: 1px solid red;
+}
